@@ -5,6 +5,10 @@
   font-family: "Times New Roman";
 }
 
+body {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
 a {
   text-decoration: none;
   color: black;
@@ -58,7 +62,7 @@ ul {
   width: 100%;
   max-width: 210mm;
   height: 297mm;
-  margin: auto;
+  margin: 20px auto 20px auto;
   background: white;
   padding: 60px 80px 0px 80px;
   text-align: center;
